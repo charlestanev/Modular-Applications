@@ -1,0 +1,38 @@
+body {
+    background-color: #d3d3d361;
+}
+
+ul {
+    list-style: none;
+}
+
+.site-wrapper {
+    width: 78vw;
+    margin: auto;
+}
+
+.site-wrapper>div>div {
+    height: 100vh;
+}
+
+.movie-list {
+    display: flex;
+}
+
+.movie-list-item {
+    margin: 10px;
+}
+
+.card-img-top {
+    height: 320px;
+}
+
+.card-text {
+    height: 143px;
+    overflow: hidden;
+}
+
+h3 {
+    padding: 20px 0 5px;
+    text-align: center;
+}
